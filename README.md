@@ -13,4 +13,4 @@ En root: insmod pid.ko
 lsmod
 ~~
 
-![img](https://github.com/yerson001/shell_OS/blob/main/shell.PNG)
+![img](https://github.com/yerson001/ModuloKelnelEnumerarTareas/blob/main/init2.PNG)
